@@ -1,5 +1,8 @@
 # Port Zero Design Assets
 
+The Design of Port Zero.
+As long as not stated different all rights belong to Port Zero.
+
 ## Logo
 ![Port Zero Logo](Logo/port-zero.png)
 
